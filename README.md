@@ -1,6 +1,4 @@
 👋 Hi, I'm **Luna Dahal**  
-🔐  | Cyber Security Analyst | Master’s Student
-
 Cybersecurity student exploring defensive security, ethical hacking, and security tools through hands-on labs and projects.
 Passionate about learning how attacks work — and how to stop them.
 
@@ -20,10 +18,5 @@ Passionate about learning how attacks work — and how to stop them.
 - Cloud & Tools: AWS/Azure concepts, Wireshark, Nessus, Git, GitHub  
 - Tech: Java, SQL, Linux, Windows, Firewalls, TCP/IP
 
-**Currently**
-- Building security labs and projects (Udacity + master’s coursework)  
-- Seeking **Cybersecurity / Security Analyst** roles (full-time or internship)
-
 🔗 **LinkedIn:** https://www.linkedin.com/in/luna-dahal-75a481222/
-🔗 **GitHub:** github.com/lunadahal 
 📧 **Email:** lunadahal5@gmail.com
