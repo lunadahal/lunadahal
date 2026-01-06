@@ -2,14 +2,14 @@
 Cybersecurity student exploring defensive security, ethical hacking, and security tools through hands-on labs and projects.
 Passionate about learning how attacks work — and how to stop them.
 
-- 🎓 **M.S. Cybersecurity**, Lindsey Wilson College (Expected Dec 2027)  
-- 🎓 **B.S. Management Information Systems**, University of Texas at Arlington (2020)  
-- 🎓 **Udacity Nanodegree – Introduction to Cybersecurity**
-
 TECHNICAL SKILLS
 Security & Frameworks: NIST CSF, CIS Controls, NIST SP 800-53, Risk Assessment, Access Control, Endpoint Security, System Hardening
 Tools & OS: Windows OS, Windows Defender Antivirus, PowerShell, Windows Services, Group Policy
 Data & Analytics: SQL, Excel, Azure Power BI, Tableau
+
+- 🎓 **M.S. Cybersecurity**, Lindsey Wilson College (Expected Dec 2027)  
+- 🎓 **B.S. Management Information Systems**, University of Texas at Arlington (2020)  
+- 🎓 **Udacity Nanodegree – Introduction to Cybersecurity**
 
 **Professional Experience**
 - **System Analyst – Tech Intelli**  
