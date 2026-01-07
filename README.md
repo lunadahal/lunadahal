@@ -7,7 +7,7 @@ Security & Frameworks: NIST CSF, CIS Controls, NIST SP 800-53, Risk Assessment, 
 Tools & OS: Windows OS, Windows Defender Antivirus, PowerShell, Windows Services, Group Policy
 Data & Analytics: SQL, Excel, Azure Power BI, Tableau
 
-- 🎓 **M.S. Cybersecurity**, Lindsey Wilson College (Expected Dec 2027)  
+- 🎓 **M.S. Cybersecurity**, Lindsey Wilson College (Expected Dec 2026)  
 - 🎓 **B.S. Management Information Systems**, University of Texas at Arlington (2020)  
 - 🎓 **Udacity Nanodegree – Introduction to Cybersecurity**
 
