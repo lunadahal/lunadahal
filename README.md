@@ -1,31 +1,17 @@
-👋 Hi, I'm **Luna Dahal**  
-M.S. Cybersecurity student focused on threat detection, SIEM monitoring, and incident response through hands-on labs and security projects.
-
+👋 Hi, I'm **Luna Dahal!** M.S. Cybersecurity student focused on threat detection, SIEM monitoring, and incident response through hands-on labs and security projects.
 ---
 
-## 🔐 Technical Skills
-
-**Security & Frameworks:**  
-NIST CSF, CIS Controls, NIST SP 800-53, Risk Assessment, Access Control, Endpoint Security, System Hardening  
-
-**Tools & OS:**  
-Windows OS, Windows Defender Antivirus, PowerShell, Windows Services, Group Policy  
-
-**Data & Analytics:**  
-SQL, Excel, Azure Power BI, Tableau  
-
+## 🔐 Technical Skills 
+**Security & Frameworks:** NIST CSF, CIS Controls, NIST SP 800-53, Risk Assessment, Access Control, Endpoint Security, System Hardening
+**Tools & OS:** Windows OS, Windows Defender Antivirus, PowerShell, Windows Services, Group Policy, MS office Suite  
 ---
 
 ## 🎓 Education
-
 - **M.S. Cybersecurity**, Lindsey Wilson College *(Expected Dec 2026)*  
 - **B.S. Management Information Systems**, University of Texas at Arlington *(2020)*  
-- **Udacity Nanodegree – Introduction to Cybersecurity*
-
 ---
 
 ## 📜 Certifications & Virtual Experience
-
 - **Shields Up: Cybersecurity Job Simulation – Forage (AIG)**  
   *Certificate of Completion – Jan 9, 2026*  
   Practical tasks completed:
@@ -34,11 +20,9 @@ SQL, Excel, Azure Power BI, Tableau
 
 - **Udacity – Introduction to Cybersecurity Nanodegree**  
   Hands-on labs in vulnerability scanning, incident response, governance, risk, and compliance.
-
 ---
 
 ## 🧪 Projects & Labs (GitHub Repositories)
-
 - **P1 – Joe’s Auto Security**  
   Windows PC security hardening: system reconnaissance, vulnerability remediation, firewall configuration, access control, and baseline implementation.  
 
@@ -50,25 +34,18 @@ SQL, Excel, Azure Power BI, Tableau
 
 - **P4 – SwiftTech GRC**  
   Governance, Risk & Compliance program design for a SaaS vendor: risk assessment, security policy development, HIPAA/NIST alignment, and SOC II preparation.  
-
-
 ---
 
 ## 💼 Professional Experience
-
 **System Analyst – Tech Intelli**  
 - Applied root cause analysis to troubleshoot and resolve critical system outage within 2 hours, identifying Azure DevOps pipeline configuration error and restoring service.
 - Created lightweight Python automation utilities to support orchestration use cases (log enrichment, IOC formatting, and ticket updates) and reduce manual analyst effort
  
-
 **System Analyst – Tekvana Inc**  
 - Created standardized templates for recurring documentation (incident notes, change records, requirements) to ensure consistent capture of scope, impact, and next steps.
 - Integrated Terraform workflows with GitHub (branching, pull requests, code reviews) to support controlled infrastructure changes and audit-friendly change management.
-
-
 ---
 
 ## 📫 Contact
-
 🔗 **LinkedIn:** https://www.linkedin.com/in/luna-dahal-75a481222/  
 📧 **Email:** lunadahal5@gmail.com
