@@ -2,7 +2,6 @@
 
 Currently looking for AppSec or Web Security Roles.
 
----
 ## Skills
 
 Burp Suite, Python, OWASP Web Top 10, OWASP LLM Top 10, 
