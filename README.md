@@ -10,8 +10,8 @@ VS Code, Wireshark
 
 ## Education
 
-M.S. Cybersecurity, Lindsey Wilson College (Expected Dec 2026)  
-B.S. Management Information Systems, UT Arlington (2020)
+**M.S. Cybersecurity, Lindsey Wilson College (Expected Dec 2026)  
+B.S. Management Information Systems, UT Arlington (2020)**
 ---
 
 ## Certifications
