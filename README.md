@@ -1,17 +1,13 @@
-👋 Hi, I am Luna Dahal — M.S. Cybersecurity student focused on application security and web security testing.
+👋 Hi, I am Luna Dahal — M.S. Cybersecurity student focused on application security and web security testing. Currently exploring for AppSec or Web Security Full-time Roles.
 
-Currently exploring for AppSec or Web Security Full-time Roles.
+*Skills*: 
+- Burp Suite, Python, OWASP Web Top 10, OWASP LLM Top 10, HTTP Traffic Analysis, Prompt Injection, DAST, Git, GitHub, VS Code, Wireshark
 
-### Skills
+*Certifications*:
+- Shields Up Cybersecurity Job Simulation, Forage (AIG) 2026  
+- Udacity Introduction to Cybersecurity Nanodegree
 
-Burp Suite, Python, OWASP Web Top 10, OWASP LLM Top 10, 
-HTTP Traffic Analysis, Prompt Injection, DAST, Git, GitHub, VS Code, Wireshark
-
-### Certifications
-Shields Up Cybersecurity Job Simulation, Forage (AIG) 2026  
-Udacity Introduction to Cybersecurity Nanodegree
-
-### Projects
+*Projects*:
 
 [HumanVsAI-WebSecurity](https://github.com/lunadahal/HumanVsAI-WebSecurity-) — Compared AI vs human HTTP traffic using Burp Suite, documented 4 security findings, demonstrated prompt injection attack mapped to OWASP LLM Top10.
 
@@ -24,6 +20,4 @@ Udacity Introduction to Cybersecurity Nanodegree
 [P4 SwiftTech GRC](https://github.com/lunadahal/P4-swifttech-grc) — Risk assessment, HIPAA and NIST alignment.
 
 
-### Contact
-
-[LinkedIn](https://www.linkedin.com/in/luna-dahal-75a481222/) | lunadahal5@gmail.com
+*Contact*: [LinkedIn](https://www.linkedin.com/in/luna-dahal-75a481222/) | lunadahal5@gmail.com
