@@ -8,7 +8,6 @@ Burp Suite, Python, OWASP Web Top 10, OWASP LLM Top 10,
 HTTP Traffic Analysis, Prompt Injection, DAST, Git, GitHub, 
 VS Code, Wireshark
 
----
 ## Education
 
 M.S. Cybersecurity, Lindsey Wilson College (Expected Dec 2026)  
@@ -19,7 +18,6 @@ B.S. Management Information Systems, UT Arlington (2020)
 Shields Up Cybersecurity Job Simulation, Forage (AIG) 2026  
 Udacity Introduction to Cybersecurity Nanodegree
 
----
 ## Projects
 
 [HumanVsAI-WebSecurity](https://github.com/lunadahal/HumanVsAI-WebSecurity-) — Compared AI vs human HTTP traffic using Burp Suite, documented 4 security findings, demonstrated prompt injection attack mapped to OWASP LLM Top 10.
