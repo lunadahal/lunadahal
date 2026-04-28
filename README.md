@@ -1,51 +1,55 @@
-👋 Hi, I'm **Luna Dahal!** M.S. Cybersecurity student focused on threat detection, SIEM monitoring, and incident response through hands-on labs and security projects.
----
+👋 Hi, I'm Luna Dahal — an M.S. Cybersecurity student focused on application security, web security testing, and AI-driven threat research.
 
-## 🔐 Technical Skills 
-**Security & Frameworks:** NIST CSF, CIS Controls, NIST SP 800-53, Risk Assessment, Access Control, Endpoint Security, System Hardening
-**Tools & OS:** Windows OS, Windows Defender Antivirus, PowerShell, Windows Services, Group Policy, MS office Suite  
----
+I am actively building hands-on experience in SAST, DAST, manual web application testing, and secure code review. 
+My current research explores how AI agents interact with web applications differently than humans and what security risks that creates.
+
+## 🔐 Technical Skills
+
+**Application & Web Security:** Burp Suite, OWASP ZAP, Manual Web Testing, HTTP Traffic Analysis, Prompt Injection, OWASP Web Top 10, OWASP LLM Top 10
+
+**SAST/DAST:** Static and Dynamic Application Security Testing concepts, Vulnerability identification and documentation, Security findings reporting
+
+**Security Frameworks:** NIST CSF, CIS Controls, NIST SP 800-53, HIPAA, SOC II
+
+**Tools:** Burp Suite Community Edition, OWASP ZAP, Python, Wireshark, Github, VS Code
+
+**Operating Systems:** Windows, Linux
 
 ## 🎓 Education
-- **M.S. Cybersecurity**, Lindsey Wilson College *(Expected Dec 2026)*  
-- **B.S. Management Information Systems**, University of Texas at Arlington *(2020)*  
----
 
-## 📜 Certifications & Virtual Experience
-- **Shields Up: Cybersecurity Job Simulation – Forage (AIG)**  
-  *Certificate of Completion – Jan 9, 2026*  
-  Practical tasks completed:
-  - Responding to a zero-day vulnerability  
-  - (Technical) bypassing ransomware  
+- M.S. Cybersecurity & Information System, Lindsey Wilson College (Expected Dec 2026)
+- B.S. Management Information Systems, University of Texas at Arlington (2020)
 
-- **Udacity – Introduction to Cybersecurity Nanodegree**  
-  Hands-on labs in vulnerability scanning, incident response, governance, risk, and compliance.
----
+## 📜 Certifications
 
-## 🧪 Projects & Labs (GitHub Repositories)
-- **P1 – Joe’s Auto Security**  
-  Windows PC security hardening: system reconnaissance, vulnerability remediation, firewall configuration, access control, and baseline implementation.  
+- Shields Up: Cybersecurity Job Simulation, Forage (AIG) — Jan 2026
+- Udacity Introduction to Cybersecurity Nanodegree
 
-- **P2 – DFI Environment Monitoring and Securing**  
-  Security analysis of firewall rules, alerts and response, VPN encryption, IDS rules, file hash verification, automation, RDP logging, and Linux data management.  
+## 🧪 Featured Project
 
-- **P3 – Hospital Incident Response Plan**  
-  Ransomware scenario for a healthcare organization: vulnerability scanning, password audits, incident response planning, detection, investigation, and evidence preservation.  
+**HumanVsAI-WebSecurity** — Web Application Security Research  
+Researched how AI agents interact with web applications differently than humans using Burp Suite and Python. Captured and compared HTTP traffic sessions, documented 4 security findings, 
+and demonstrated a live indirect prompt injection attack on OWASP Juice Shop mapped to OWASP LLM Top 10 LLM01.  
+[View Project](https://github.com/lunadahal/HumanVsAI-WebSecurity-)
 
-- **P4 – SwiftTech GRC**  
-  Governance, Risk & Compliance program design for a SaaS vendor: risk assessment, security policy development, HIPAA/NIST alignment, and SOC II preparation.  
----
+## 🧪 Other Projects
+
+- **P1 Joe's Auto Security** — Windows security hardening, firewall configuration, access control
+- **P2 DFI Environment Monitoring** — Firewall analysis, IDS rules, VPN encryption, incident response
+- **P3 Hospital Incident Response** — Ransomware scenario, vulnerability scanning, evidence preservation
+- **P4 SwiftTech GRC** — Risk assessment, HIPAA/NIST alignment, SOC II preparation
 
 ## 💼 Professional Experience
-**System Analyst – Tech Intelli**  
-- Applied root cause analysis to troubleshoot and resolve critical system outage within 2 hours, identifying Azure DevOps pipeline configuration error and restoring service.
-- Created lightweight Python automation utilities to support orchestration use cases (log enrichment, IOC formatting, and ticket updates) and reduce manual analyst effort
- 
-**System Analyst – Tekvana Inc**  
-- Created standardized templates for recurring documentation (incident notes, change records, requirements) to ensure consistent capture of scope, impact, and next steps.
-- Integrated Terraform workflows with GitHub (branching, pull requests, code reviews) to support controlled infrastructure changes and audit-friendly change management.
----
+
+**System Analyst, Tech Intelli**
+- Resolved critical Azure DevOps pipeline outage within 2 hours
+- Built Python utilities for log enrichment and IOC formatting
+
+**System Analyst, Tekvana Inc**
+- Standardized incident documentation templates
+- Integrated Terraform workflows with GitHub for audit-friendly change management
 
 ## 📫 Contact
-🔗 **LinkedIn:** https://www.linkedin.com/in/luna-dahal-75a481222/  
-📧 **Email:** lunadahal5@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/luna-dahal-75a481222/  
+Email: lunadahal5@gmail.com
