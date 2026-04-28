@@ -1,6 +1,6 @@
 👋 Hi, I am Luna Dahal — M.S. Cybersecurity student focused on application security and web security testing.
 
-Currently looking for AppSec or Web Security Roles.
+Currently exploring for AppSec or Web Security Full-time Roles.
 
 ## Skills
 
@@ -10,9 +10,8 @@ VS Code, Wireshark
 
 ## Education
 
-**M.S. Cybersecurity, Lindsey Wilson College (Expected Dec 2026)  
-B.S. Management Information Systems, UT Arlington (2020)**
----
+Masters in Cybersecurity, Lindsey Wilson College (Dec 2026)  
+Bachelors in Management Information System, University of Texas at Arlington (2020)
 
 ## Certifications
 Shields Up Cybersecurity Job Simulation, Forage (AIG) 2026  
@@ -20,7 +19,7 @@ Udacity Introduction to Cybersecurity Nanodegree
 
 ## Projects
 
-[HumanVsAI-WebSecurity](https://github.com/lunadahal/HumanVsAI-WebSecurity-) — Compared AI vs human HTTP traffic using Burp Suite, documented 4 security findings, demonstrated prompt injection attack mapped to OWASP LLM Top 10.
+[HumanVsAI-WebSecurity](https://github.com/lunadahal/HumanVsAI-WebSecurity-) — Compared AI vs human HTTP traffic using Burp Suite, documented 4 security findings, demonstrated prompt injection attack mapped to OWASP LLM Top10.
 
 [P1 Joe's Auto Security](https://github.com/lunadahal/P1-joes-auto-security) — Windows security hardening and access control.
 
@@ -31,6 +30,7 @@ Udacity Introduction to Cybersecurity Nanodegree
 [P4 SwiftTech GRC](https://github.com/lunadahal/P4-swifttech-grc) — Risk assessment, HIPAA and NIST alignment.
 
 ---
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/luna-dahal-75a481222/) | lunadahal5@gmail.com
