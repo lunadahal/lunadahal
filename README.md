@@ -1,55 +1,39 @@
-👋 Hi, I'm Luna Dahal — an M.S. Cybersecurity student focused on application security, web security testing, and AI-driven threat research.
+👋 Hi, I am Luna Dahal — M.S. Cybersecurity student focused on application security and web security testing.
 
-I am actively building hands-on experience in SAST, DAST, manual web application testing, and secure code review. 
-My current research explores how AI agents interact with web applications differently than humans and what security risks that creates.
+Currently looking for AppSec or Web Security Roles.
 
-## 🔐 Technical Skills
+---
+## Skills
 
-**Application & Web Security:** Burp Suite, OWASP ZAP, Manual Web Testing, HTTP Traffic Analysis, Prompt Injection, OWASP Web Top 10, OWASP LLM Top 10
+Burp Suite, Python, OWASP Web Top 10, OWASP LLM Top 10, 
+HTTP Traffic Analysis, Prompt Injection, DAST, Git, GitHub, 
+VS Code, Wireshark
 
-**SAST/DAST:** Static and Dynamic Application Security Testing concepts, Vulnerability identification and documentation, Security findings reporting
+---
+## Education
 
-**Security Frameworks:** NIST CSF, CIS Controls, NIST SP 800-53, HIPAA, SOC II
+M.S. Cybersecurity, Lindsey Wilson College (Expected Dec 2026)  
+B.S. Management Information Systems, UT Arlington (2020)
+---
 
-**Tools:** Burp Suite Community Edition, OWASP ZAP, Python, Wireshark, Github, VS Code
+## Certifications
+Shields Up Cybersecurity Job Simulation, Forage (AIG) 2026  
+Udacity Introduction to Cybersecurity Nanodegree
 
-**Operating Systems:** Windows, Linux
+---
+## Projects
 
-## 🎓 Education
+[HumanVsAI-WebSecurity](https://github.com/lunadahal/HumanVsAI-WebSecurity-) — Compared AI vs human HTTP traffic using Burp Suite, documented 4 security findings, demonstrated prompt injection attack mapped to OWASP LLM Top 10.
 
-- M.S. Cybersecurity & Information System, Lindsey Wilson College (Expected Dec 2026)
-- B.S. Management Information Systems, University of Texas at Arlington (2020)
+[P1 Joe's Auto Security](https://github.com/lunadahal/P1-joes-auto-security) — Windows security hardening and access control.
 
-## 📜 Certifications
+[P2 DFI Environment Monitoring](https://github.com/lunadahal/P2-dfi-environment-monitoring-and-securing) — Firewall analysis, IDS rules, incident response.
 
-- Shields Up: Cybersecurity Job Simulation, Forage (AIG) — Jan 2026
-- Udacity Introduction to Cybersecurity Nanodegree
+[P3 Hospital Incident Response](https://github.com/lunadahal/P3-hospital-incident-response-plan) — Ransomware scenario, vulnerability scanning.
 
-## 🧪 Featured Project
+[P4 SwiftTech GRC](https://github.com/lunadahal/P4-swifttech-grc) — Risk assessment, HIPAA and NIST alignment.
 
-**HumanVsAI-WebSecurity** — Web Application Security Research  
-Researched how AI agents interact with web applications differently than humans using Burp Suite and Python. Captured and compared HTTP traffic sessions, documented 4 security findings, 
-and demonstrated a live indirect prompt injection attack on OWASP Juice Shop mapped to OWASP LLM Top 10 LLM01.  
-[View Project](https://github.com/lunadahal/HumanVsAI-WebSecurity-)
+---
+## Contact
 
-## 🧪 Other Projects
-
-- **P1 Joe's Auto Security** — Windows security hardening, firewall configuration, access control
-- **P2 DFI Environment Monitoring** — Firewall analysis, IDS rules, VPN encryption, incident response
-- **P3 Hospital Incident Response** — Ransomware scenario, vulnerability scanning, evidence preservation
-- **P4 SwiftTech GRC** — Risk assessment, HIPAA/NIST alignment, SOC II preparation
-
-## 💼 Professional Experience
-
-**System Analyst, Tech Intelli**
-- Resolved critical Azure DevOps pipeline outage within 2 hours
-- Built Python utilities for log enrichment and IOC formatting
-
-**System Analyst, Tekvana Inc**
-- Standardized incident documentation templates
-- Integrated Terraform workflows with GitHub for audit-friendly change management
-
-## 📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/luna-dahal-75a481222/  
-Email: lunadahal5@gmail.com
+[LinkedIn](https://www.linkedin.com/in/luna-dahal-75a481222/) | lunadahal5@gmail.com
