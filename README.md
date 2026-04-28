@@ -7,7 +7,7 @@ Currently exploring for AppSec or Web Security Full-time Roles.
 Burp Suite, Python, OWASP Web Top 10, OWASP LLM Top 10, 
 HTTP Traffic Analysis, Prompt Injection, DAST, Git, GitHub, VS Code, Wireshark
 
-## Certifications
+### Certifications
 Shields Up Cybersecurity Job Simulation, Forage (AIG) 2026  
 Udacity Introduction to Cybersecurity Nanodegree
 
