@@ -29,7 +29,6 @@ Udacity Introduction to Cybersecurity Nanodegree
 
 [P4 SwiftTech GRC](https://github.com/lunadahal/P4-swifttech-grc) — Risk assessment, HIPAA and NIST alignment.
 
----
 
 ## Contact
 
